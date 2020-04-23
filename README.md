@@ -1,1 +1,1 @@
-# projectnew
+A scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.This program will read two integer numbers and operator like +,-,*,/,%... etc and then print the result according to given operator, it is a complete calculator program on basic arithmetic operators using switch statement in c programming language
